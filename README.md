@@ -85,3 +85,9 @@ Create an online price comparison tool to search and compare the deals.
 🛠️ Must-use tool: Alibaba Scraper and Walmart Scraper to get product prices from the most convenient e-commerce platforms on the planet. Make your web scraping ideas happen!
 
 9. Predict the Next Trending Stock
+
+✅ Steps to success:
+
+Write a web scraper to track discussions about stocks from popular social platforms like Reddit.
+Develop a machine learning model that can predict the next trending stock.
+Feed the extracted data to the model.
