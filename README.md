@@ -1,2 +1,1 @@
-# Scrapping_projects
-Diffrent web scrapping impplimentations
+6. Get a Recipe Idea to Get the Best Out of the Ingredients You Have
