@@ -39,6 +39,22 @@ Process, clean, and aggregate the scraped data to avoid repetitions and store it
 Develop a search engine interface for users to enter some words and retrieve matching songs.
 🛠️ Must-use tool: Premium scraping proxies to avoid the IP banning protections that lyrics sites usually adopt
 
+5. Build the Ultimate Video Game Database
+
+
+Know where a video game is available for download.
+Find out stats about the most played video games at the moment.
+Get the latest news on updates and patches.
+Discover the minimum and recommended hardware requirements to run a game.
+✅ Steps to success:
+
+Scrape game titles, descriptions, system requirements, release dates, and player statistics from Steam, Origin, Epic Games Store, UPlay, and similar digital stores.
+Integrate that data into a single database.
+Make the scraping a continuous process to track game releases, updates, and stats in real-time.
+Build a site to browse and search for games based on various criteria.
+🛠️ Must-use tool: Most gaming stores rely on Cloudflare for anti-bot protection, so you need to bypass Cloudflare.
+
+
 6. Get a Recipe Idea to Get the Best Out of the Ingredients You Have
 
 ✅ Steps to success:
