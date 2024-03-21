@@ -63,3 +63,12 @@ Scrape recipes from the most popular cooking websites in the world.
 Clean and select the data to keep only the best recipes according to user reviews on those sites.
 Build a recommendation engine that allows users to insert one or more ingredients and returns a list of possible recipes.
 🛠️ Must-use tool: An efficient HTML parser like BeautifulSoup to get data from several pages efficiently might be necessary for web scraping ideas like this one
+
+7. Assemble an Internet Time Machine as the Most Basic Scraping Project
+
+✅ Steps to success:
+
+Identify the websites that you want to scrape.
+Write a web crawler to visit all site pages and download them.
+Store the extracted HTML document in a database.
+🛠️ Must-use tool: Scrapy, one of the most popular crawling libraries in the world.
