@@ -19,6 +19,26 @@ Design and develop a site for job search with advanced filtering options.
 Allow users to sign up to save their favorite jobs, set preferences, and receive job alerts.
 🛠️ Must-use tool: Indeed Scraper, a solution to scrape job offers without getting blocked, with the data obtained in a JSON, and export them to any format or database.
 
+3. Alert Price Drops for Your Hunted Products on Amazon
+
+✅ Steps to success:
+
+Build an Amazon web scraper and store the product data in a database.
+Integrate the scraper with users' Amazon wishlist products by using Amazon APIs.
+Set up a scheduler to launch your scraper several times a day.
+Enable a notification functionality to alert users when prices drop below their set thresholds.
+🛠️ Must-use tool: Amazon Scraper, an easy tool to get products and listings without restrictions or limits
+
+4. Discover Music as with Shazam but Based on Lyrics
+
+✅ Steps to success:
+
+Identify and select reliable music websites to scrape lyrics from, such as Lyrics.com and AZLyrics.
+Build a scraping script to get song data and lyrics from those sites.
+Process, clean, and aggregate the scraped data to avoid repetitions and store it in a database.
+Develop a search engine interface for users to enter some words and retrieve matching songs.
+🛠️ Must-use tool: Premium scraping proxies to avoid the IP banning protections that lyrics sites usually adopt
+
 6. Get a Recipe Idea to Get the Best Out of the Ingredients You Have
 
 ✅ Steps to success:
