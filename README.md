@@ -72,3 +72,16 @@ Identify the websites that you want to scrape.
 Write a web crawler to visit all site pages and download them.
 Store the extracted HTML document in a database.
 🛠️ Must-use tool: Scrapy, one of the most popular crawling libraries in the world.
+
+
+8. E-Commerce Price Comparison Tool
+
+✅ Steps to success:
+
+Identify the e-commerce websites that you want to scrape, such as Alibaba, Amazon, Walmart, and eBay.
+Write specific web spiders that can visit the sites and extract product prices from them.
+Aggregate the scraped data into the same database.
+Create an online price comparison tool to search and compare the deals.
+🛠️ Must-use tool: Alibaba Scraper and Walmart Scraper to get product prices from the most convenient e-commerce platforms on the planet. Make your web scraping ideas happen!
+
+9. Predict the Next Trending Stock
